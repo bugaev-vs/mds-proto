@@ -104,7 +104,7 @@ Python 3.10+, Flask, Pydantic, Shapely, networkx, matplotlib, WebSocket.
 
 ## Контакты
 
-- **Репозиторий:** [https://github.com/bugaev-vs/mds-promo]
+- **Репозиторий:** [https://github.com/bugaev-vs/mds-proto]
 - **Документация:** [https://github.com/bugaev-vs/mds-proto/tree/main/docs]
 ---
 
