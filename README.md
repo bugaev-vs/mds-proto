@@ -120,9 +120,9 @@ Python 3.10+, Flask, Pydantic, Shapely, networkx, matplotlib, WebSocket.
 
 ## С чего начать новому участнику проекта
 
-1. Прочитать документацию [https://github.com/bugaev-vs/mds-proto/tree/main/docs]
-2. Код МДС [https://github.com/bugaev-vs/mds-proto/tree/main/mds]
-3. Имитация телеметрии для МДС [https://github.com/bugaev-vs/mds-proto/tree/main/telemetry]
+1. Прочитать документацию [https://github.com/bugvs/mds-proto/tree/main/docs]
+2. Код МДС [https://github.com/bugvs/mds-proto/tree/main/mds]
+3. Имитация телеметрии для МДС [https://github.com/bugvs/mds-proto/tree/main/telemetry]
 4. Ознакомьтесь `models.py` — базовые структуры данных.
 5. Ознакомьтесь `dispatcher.py` — ядро логики.
 6. Запустите `main.py` — увидите полный цикл на демо-сценарии.
@@ -134,8 +134,8 @@ Python 3.10+, Flask, Pydantic, Shapely, networkx, matplotlib, WebSocket.
 
 ## Контакты
 
-- **Репозиторий:** [https://github.com/bugaev-vs/mds-proto]
-- **Документация:** [https://github.com/bugaev-vs/mds-proto/tree/main/docs]
+- **Репозиторий:** [https://github.com/bugvs/mds-proto]
+- **Документация:** [https://github.com/bugvs/mds-proto/tree/main/docs]
 ---
 
 *Версия от 2026-10-04*
